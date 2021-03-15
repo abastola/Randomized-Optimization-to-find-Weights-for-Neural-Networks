@@ -1,4 +1,4 @@
-Machine Learning: Assignment 1
+Machine Learning: Assignment 2
 
 Step 1: Goto Terminal 
 Step 2: git clone https://github.com/abastola/ML-7641-Assignment-2/
